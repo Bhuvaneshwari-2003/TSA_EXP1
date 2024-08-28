@@ -104,4 +104,4 @@ plt.show()
 
 
 # RESULT:
-Thus the successfully implemented the plot a time series data in python.
+Thus,the Python code has been created to visualize the time series of the given data.
